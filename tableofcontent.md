@@ -27,24 +27,9 @@ Navigate the PulseAI documentation easily 👇
 4.  [**FLOWCHART.md**](./flowchart.md)  
     Detailed workflow diagram and n8n node explanation
 
-5.  [**CHALLENGESFACED.md**](./challengesfaced.md)  
-    Problems we faced during development and how we solved them
 
-6.  [**SETUP.md**](./setup.md)  
-    Step by step installation and configuration guide
 
----
 
-## 📦 Project Files
-
-7.  [**PulseAI-workflow.json**](./PulseAI-workflow.json)  
-    Import this file directly into n8n
-
-8.  [**.env.example**](./.env.example)  
-    Environment variables template
-
-9.  [**CONTRIBUTING.md**](./CONTRIBUTING.md)  
-    How to contribute to PulseAI
 
 ---
 
